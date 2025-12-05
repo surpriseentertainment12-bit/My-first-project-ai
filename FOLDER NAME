@@ -1,0 +1,6 @@
+servicehub_pro/
+  android/
+  ios/
+  lib/
+    main.dart
+  pubspec.yaml
