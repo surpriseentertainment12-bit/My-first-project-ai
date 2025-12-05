@@ -1,0 +1,17 @@
+servicehub_pro_app/
+ ├── android/
+ ├── ios/
+ ├── web/
+ ├── lib/
+ │    ├── main.dart
+ │    ├── screens/
+ │    │     ├── home_screen.dart
+ │    │     ├── booking_screen.dart
+ │    │     ├── worker_panel.dart
+ │    │     ├── admin_panel.dart
+ │    ├── widgets/
+ │    │     └── custom_button.dart
+ ├── assets/
+ │    └── icons/
+ ├── pubspec.yaml
+ └── README.md
